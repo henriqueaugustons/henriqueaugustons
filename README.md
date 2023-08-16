@@ -1,6 +1,6 @@
 ### Hi, i'm Henrique! 👋
 
-### Front-end developer
+### Frontend developer
 
 ### Junior
 
